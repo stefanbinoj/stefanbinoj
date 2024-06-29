@@ -16,7 +16,7 @@
 <a href="mailto: stefan.binoj.007@email.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 
-Hey there! I'm Stefan, a passionate software developer and student at Govt. Model Engineering College, Thrikkakara. I'm on a journey to explore various aspects of software development, from web applications to mobile apps, with a budding interest in machine learning.
+Hey there! I'm Stefan, a passionate software developer and student at Govt. Model Engineering College, Thrikkakara. I'm on a journey to explore various aspects of software development, from web applications to mobile apps, with a budding interest in machine learning and data science
 
 
 <table>
