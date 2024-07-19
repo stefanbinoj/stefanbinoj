@@ -9,7 +9,7 @@
 
 # Hello, I'm STEFAN BINOJ 👋
 
-### MERN Developer | Machine Learning | AWS
+### MERN Developer | Machine Learning 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/stefanbinoj/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="lin_stefanbinoj" height="30" width="40" /></a>  
