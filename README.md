@@ -83,5 +83,5 @@ I'm always open to collaborating on interesting projects or discussing the lates
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=stefanbinoj&color=brightgreen" alt="profile_views" />
+<img src="https://komarev.com/ghpvc/?username=stefanbinoj&color=blue" alt="profile_views" />
 </p>
