@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/Location-Angamaly-success" />
 <img src="https://img.shields.io/badge/Interest-ML-blue" />
 <img src="https://img.shields.io/badge/Languages-English%20%26%20Malayalam-brightgreen" />
-</p>
+</p> 
  
 <hr> 
  
