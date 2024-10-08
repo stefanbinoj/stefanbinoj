@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
 <img src="https://img.shields.io/badge/Age-19-blue" />  
 <img src="https://img.shields.io/badge/Location-Angamaly-success" />
 <img src="https://img.shields.io/badge/Interest-ML-blue" />    
